@@ -1,0 +1,53 @@
+{
+  "next_5_games": [
+    {
+      "date": "2025-02-08",
+      "opponent": "DET",
+      "venue": "home",
+      "opponent_defensive_rank": 28,
+      "opponent_win_streak": 0,
+      "opponent_missing_key_players": true,
+      "wingspan_advantage_inches": 2,
+      "rim_protector_present": false,
+      "switch_heavy_defense": false,
+      "zone_frequency": "low"
+    },
+    {
+      "date": "2025-02-10",
+      "opponent": "TBD",
+      "venue": "away",
+      "opponent_defensive_rank": 15,
+      "opponent_win_streak": 0,
+      "opponent_missing_key_players": false,
+      "wingspan_advantage_inches": 0
+    },
+    {
+      "date": "2025-02-12",
+      "opponent": "TBD",
+      "venue": "home",
+      "opponent_defensive_rank": 15,
+      "opponent_win_streak": 0,
+      "opponent_missing_key_players": false,
+      "wingspan_advantage_inches": 0
+    },
+    {
+      "date": "2025-02-14",
+      "opponent": "TBD",
+      "venue": "away",
+      "opponent_defensive_rank": 15,
+      "opponent_win_streak": 0,
+      "opponent_missing_key_players": false,
+      "wingspan_advantage_inches": 0
+    },
+    {
+      "date": "2025-02-16",
+      "opponent": "TBD",
+      "venue": "home",
+      "opponent_defensive_rank": 15,
+      "opponent_win_streak": 0,
+      "opponent_missing_key_players": false,
+      "wingspan_advantage_inches": 0
+    }
+  ],
+  "notes": "opponent_defensive_rank: 1=best D, 30=worst. opponent_win_streak: current W streak. wingspan_advantage_inches: Sarr vs primary defender. Optional matchup: rim_protector_present, switch_heavy_defense, zone_frequency (low/medium/high). Output: sarr_next5_projections.csv"
+}
