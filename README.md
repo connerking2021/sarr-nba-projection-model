@@ -80,4 +80,7 @@ Backtest results including:
 - Error columns per stat
 - Game segmentation fields
 
+- Author - Conner King
+- NBA Analytics and Front Office Analytics Project
+
 ---
